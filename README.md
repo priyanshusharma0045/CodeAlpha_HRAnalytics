@@ -67,6 +67,22 @@ Power BI Desktop – for data visualization and dashboard creation
 
 Microsoft Excel / CSV – assumed source of raw data
 
+
+# HR-Analytics-Dashboard/
+│
+├── data 
+https://github.com/priyanshusharma0045/HR-Analytic-dasboard/blob/main/HR_Analytics.csv
+│   
+│
+├── dashboard
+https://github.com/priyanshusharma0045/HR-Analytic-dasboard/blob/main/HR%20Analytics%20Dashboard.pbix
+│   
+│
+├── images
+<img width="1455" height="806" alt="Screenshot 2025-07-15 221042" src="https://github.com/user-attachments/assets/d7f9236b-7042-4056-ae5f-50c0af583faf" />
+
+│   
+
 # Insights
 Early-stage employees (under 5 years) are more likely to leave.
 
