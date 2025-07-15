@@ -2,7 +2,7 @@
  Overview
 This project presents an interactive HR Analytics Dashboard built using Power BI, focused on employee attrition analysis. The goal is to uncover key insights from HR data to help organizations understand workforce dynamics and reduce employee turnover.
 
-📌 Key Metrics
+#  Key Metrics
 Total Employees: 1470
 
 Total Attrition Cases: 237
@@ -15,7 +15,7 @@ Average Salary: $6.5K
 
 Average Years at Company: 7 years
 
-📈 Visualizations
+# Visualizations
 The dashboard includes various visual breakdowns to help HR professionals make data-driven decisions:
 
 ✅ Attrition by Education
@@ -62,12 +62,12 @@ Male: 140
 
 Female: 79
 
-🧩 Technologies Used
+# Technologies Used
 Power BI Desktop – for data visualization and dashboard creation
 
 Microsoft Excel / CSV – assumed source of raw data
 
-🔍 Insights
+# Insights
 Early-stage employees (under 5 years) are more likely to leave.
 
 Lower salary brackets experience higher attrition.
